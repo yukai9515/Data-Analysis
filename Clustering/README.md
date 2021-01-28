@@ -3,7 +3,7 @@
 
 2.apply_Kmeans= True is using Kmeans clustering, on the other hand, is using Kmedian clustering
 
-3.Choosing the input data row, data, iteration time in K_cluster()
+3.Choosing the number of row data, data, iteration time in K_cluster()
 
 4.The graph can demonstrate how many cluster is the best based on elbow method(SSE)
 
