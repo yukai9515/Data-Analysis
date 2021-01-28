@@ -1,6 +1,6 @@
-1.Problem: Using Tabu Search in TSP problem, to find the optimal travel distance of nine district.
+Problem: Using Tabu Search in TSP problem, to find the optimal travel distance of nine district.
 
-2.The distance between each district is in "Data.csv"
+The distance between each district is in "Data.csv"
 
 In this case the optimal solution is: 259 
 
