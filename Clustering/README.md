@@ -5,4 +5,4 @@
 
 3.Choosing the input data row, data, iteration time in K_cluster()
 
-4.The graphed can demonstrate how many cluster is the best based on elbow method(SSE)
+4.The graph can demonstrate how many cluster is the best based on elbow method(SSE)
